@@ -20,6 +20,10 @@
 数据文件读写与转换
 
 	1.excel
+		
+		[a]:html->table to excel
+
+		[b]:sql->后端语言(java...) to excel
 
 	2.ppt
 
@@ -28,6 +32,10 @@
 	4.json
 
 	5.txt
+
+	6.word
+
+	7.markdown
 
 
 	
